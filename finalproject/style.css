@@ -1,0 +1,113 @@
+#title {
+    background-color: #4D869C;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 8rem;
+    line-height: 1.5;
+    color: #EEF7FF;
+    text-align: center;
+}
+
+#projects {
+    background-color: #4D869C;
+    padding: 3% 4%;
+}
+
+h2 {
+    color: #000000;
+    font-family: 'Montserrat';
+    font-size: 1.5;
+    font-weight: bold;
+    padding-bottom: 3%;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #CDE8E5;
+    padding: 3%;
+}
+
+h4{
+    font-family: 'Montserrat';
+    color: #CDE8E5;
+    text-align: center;
+    padding-top: 5%;
+}
+
+p {
+    color: #CDE8E5;
+    width: 50%;
+    padding-bottom: 3%;
+}
+
+.container-fluid {
+    padding: 3%;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.navbar-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+
+.card {
+    background-color: #CDE8E5;
+}
+
+.card-header {
+    background-color: #244b5a;
+}
+
+.schedule-image {
+    width: 95%;
+    padding-bottom: 20px;
+}
+
+.studybuddy-image {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.dice-image {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#aboutme {
+    padding: 4%;
+    background-color: #4D869C;
+}
+
+.me-image {
+    width: 90%;
+    border-radius: 40%;
+    margin: 1rem;
+}
+
+#cta {
+    background-color: #4D869C;
+    color: #EEF7FF;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
